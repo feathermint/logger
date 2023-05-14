@@ -1,6 +1,6 @@
 {
   "name": "@feathermint/logger",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utility function to create a preconfigured Winston logger.",
   "author": "Feathermint",
   "license": "GPL-3.0-or-later",
